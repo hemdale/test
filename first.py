@@ -1,2 +1,2 @@
 #This is alex's first program
-print('hello world')
+print('Hello World')
